@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 793bb2504f09fef4797652cb72658ef3
+timeCreated: 1430054349
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hodnik_strojarnica
+    21300002: Hodnik_celije
+    21300004: vratnice
+    21300006: vent_shaft
+    21300008: lamp_2
+    21300010: vent_propeler_1
+    21300012: Atlas_linda_6
+    21300014: vrata_l
+    21300016: light thingy
+    21300018: Atlas_linda_9
+    21300020: lamp
+    21300022: Atlas_linda_11
+    21300024: Vent
+    21300026: zice
+    21300028: vent_pregrada_1
+    21300030: vent_propeler_2
+    21300032: vent_grate
+    21300034: vent_pregrada_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hodnik_strojarnica
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3141
+        width: 2624
+        height: 596
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hodnik_celije
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2075
+        width: 2624
+        height: 598
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vratnice
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2255
+        width: 258
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vent_shaft
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2330
+        width: 323
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lamp_2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1904
+        width: 368
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vent_propeler_1
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1943
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_linda_6
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1647
+        width: 396
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vrata_l
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 777
+        width: 226
+        height: 686
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: light thingy
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1383
+        width: 1966
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_linda_9
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 777
+        width: 228
+        height: 687
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lamp
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1195
+        width: 281
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_linda_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 913
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vent
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 379
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zice
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 776
+        width: 1973
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vent_pregrada_1
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 2729
+        width: 288
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vent_propeler_2
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 2373
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vent_grate
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 1977
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vent_pregrada_2
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 1617
+        width: 218
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

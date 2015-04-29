@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: fe8167ddc1ac94a4c83981f68a288fac
+timeCreated: 1430296684
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: okno1
+    21300002: okno5
+    21300004: okno9
+    21300006: okno2
+    21300008: okno6
+    21300010: okno10
+    21300012: okno3
+    21300014: okno7
+    21300016: okno12
+    21300018: "\u043B\u0438\u0444\u0442 \u043D\u0435 \u0440\u0430\u0431\u043E\u0442\u0430\u0435\u0442_21"
+    21300020: Lift_ispred
+    21300022: okno4
+    21300024: okno8
+    21300026: okno11
+    21300028: Lift_pregrada
+    21300030: Lift_iza
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: okno1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1589
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1589
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno9
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1588
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1122
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1122
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno10
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1122
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 634
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 634
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno12
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 859
+        width: 401
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043B\u0438\u0444\u0442 \u043D\u0435 \u0440\u0430\u0431\u043E\u0442\u0430\u0435\u0442_21"
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 608
+        width: 401
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lift_ispred
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 328
+        width: 569
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 149
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 149
+        width: 401
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: okno11
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 149
+        width: 401
+        height: 401
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lift_pregrada
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 35
+        width: 573
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lift_iza
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 442
+        width: 569
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
