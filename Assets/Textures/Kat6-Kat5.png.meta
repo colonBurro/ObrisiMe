@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 4389de228e1b92b4ab3d8a58e66f9fb1
+timeCreated: 1430655513
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Prozor_lijevo
+    21300002: Kat6-Kat5_1
+    21300004: Kokpit
+    21300006: Dukina soba
+    21300008: Hodnik
+    21300010: Meeting hall
+    21300012: lampa_L
+    21300014: lampa_D
+    21300016: lift1
+    21300018: Kat6-Kat5_9
+    21300020: Kat6-Kat5_10
+    21300022: Kat6-Kat5_11
+    21300024: Kat6-Kat5_12
+    21300026: Kat6-Kat5_13
+    21300028: Monitor_l
+    21300030: Monitor_D
+    21300032: Kat6-Kat5_16
+    21300034: Tastatura
+    21300036: Kat6-Kat5_18
+    21300038: Lift
+    21300040: Kat6-Kat5_27
+    21300042: KosiZid
+    21300044: Kat6-Kat5_29
+    21300046: komp_Dukina
+    21300048: Krevet
+    21300050: Kat6-Kat5_32
+    21300052: Kat6-Kat5_33
+    21300054: Kat6-Kat5_34
+    21300056: KosiZidDesno
+    21300058: Kokpit_Dolje
+    21300060: vrata_kokpit
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Prozor_lijevo
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3146
+        width: 286
+        height: 789
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_1
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 3930
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kokpit
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3287
+        width: 1445
+        height: 596
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dukina soba
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 3257
+        width: 1639
+        height: 596
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hodnik
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2470
+        width: 1599
+        height: 596
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meeting hall
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2470
+        width: 2085
+        height: 596
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lampa_L
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1932
+        width: 439
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lampa_D
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1930
+        width: 563
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lift1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1286
+        width: 420
+        height: 599
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_9
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 1784
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_10
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 1778
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_11
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 1768
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_12
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 1760
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monitor_l
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1567
+        width: 352
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monitor_D
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1565
+        width: 572
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tastatura
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1248
+        width: 374
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_18
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1251
+        width: 367
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lift
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 547
+        width: 398
+        height: 598
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KosiZid
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 49
+        width: 259
+        height: 691
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_29
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 713
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: komp_Dukina
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 651
+        width: 622
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Krevet
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 643
+        width: 306
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_32
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 705
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_33
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 695
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kat6-Kat5_34
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 687
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KosiZidDesno
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 52
+        width: 514
+        height: 829
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kokpit_Dolje
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1010
+        width: 1188
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vrata_kokpit
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1204
+        width: 229
+        height: 687
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
