@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: e8736b321845542469744dfa4279a4d9
+timeCreated: 1432213193
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zid_kosi
+    21300002: zid_kosi2
+    21300004: Zid
+    21300006: Zid2
+    21300008: Atlas_final_4
+    21300010: Zid4
+    21300012: Zid_vrata
+    21300014: Zid_vrata2
+    21300016: Zid5
+    21300018: Zid3
+    21300020: svijetlo
+    21300022: grate2
+    21300024: vratnica
+    21300026: Vrata_anim
+    21300028: Sank1
+    21300030: Zidprozor
+    21300032: monitor
+    21300034: sank2
+    21300036: Zice
+    21300038: Komp
+    21300040: Stol
+    21300042: Krevet
+    21300044: zice2
+    21300046: tegle
+    21300048: frig
+    21300050: prsut
+    21300052: grate
+    21300054: ormaric2
+    21300056: ormaric
+    21300058: zice3
+    21300060: Svijetlo2
+    21300062: Zid6
+    21300064: cijev
+    21300066: cijev2
+    21300068: tegla
+    21300070: koso1
+    21300072: koso2
+    21300074: koso3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Zid_kosi
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3204
+        width: 770
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zid_kosi2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3204
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zid
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 3204
+        width: 200
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zid2
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 3204
+        width: 200
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zid4
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 3204
+        width: 200
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zid_vrata
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 3204
+        width: 401
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zid_vrata2
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 3204
+        width: 400
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zid5
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 3204
+        width: 401
+        height: 802
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zid3
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 3204
+        width: 200
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svijetlo
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3097
+        width: 363
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grate2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3080
+        width: 200
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vratnica
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2747
+        width: 254
+        height: 415
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vrata_anim
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2755
+        width: 202
+        height: 387
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sank1
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 2726
+        width: 478
+        height: 380
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zidprozor
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2271
+        width: 284
+        height: 788
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monitor
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2873
+        width: 350
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sank2
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2829
+        width: 817
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zice
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2942
+        width: 200
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Komp
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2479
+        width: 620
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stol
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2535
+        width: 514
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Krevet
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2609
+        width: 304
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zice2
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2634
+        width: 200
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tegle
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2182
+        width: 320
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frig
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2174
+        width: 230
+        height: 395
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prsut
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 2174
+        width: 98
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grate
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 2328
+        width: 129
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ormaric2
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2329
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ormaric
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2325
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zice3
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2332
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Svijetlo2
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 2350
+        width: 438
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zid6
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 2380
+        width: 401
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cijev
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2256
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cijev2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2259
+        width: 205
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tegla
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2208
+        width: 122
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koso1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1195
+        width: 735
+        height: 936
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koso2
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1154
+        width: 363
+        height: 1020
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koso3
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1153
+        width: 642
+        height: 1021
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
