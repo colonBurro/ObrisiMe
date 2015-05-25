@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e8736b321845542469744dfa4279a4d9
-timeCreated: 1432213193
+timeCreated: 1432569334
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -42,6 +42,7 @@ TextureImporter:
     21300070: koso1
     21300072: koso2
     21300074: koso3
+    21300076: zid6
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -443,7 +444,7 @@ TextureImporter:
         x: 927
         y: 1154
         width: 363
-        height: 1020
+        height: 884
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,6 +455,16 @@ TextureImporter:
         y: 1153
         width: 642
         height: 1021
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zid6
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3206
+        width: 200
+        height: 800
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
